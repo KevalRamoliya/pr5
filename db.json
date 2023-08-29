@@ -1,0 +1,37 @@
+{
+  "Employe": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "emaily": "typicode"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "cpassword": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "cpassword": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "passwoed": "",
+      "cpassword": "",
+      "id": 4
+    },
+    {
+      "name": "keval Ramoliya",
+      "email": "",
+      "passwoed": "",
+      "cpassword": "",
+      "id": 5
+    }
+  ]
+}
